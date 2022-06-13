@@ -1,4 +1,4 @@
-import request
+import requests
 
 def test_github(request):
   
